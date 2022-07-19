@@ -1,0 +1,179 @@
+{
+	"info": {
+		"_postman_id": "97ac9f69-b47e-46f7-b400-33367f8a8c60",
+		"name": "Sogeti_API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21128240"
+	},
+	"item": [
+		{
+			"name": "API1",
+			"item": [
+				{
+					"name": "TestCase1",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"//Verify that the response status code is 200 and content type is JSON.\r",
+									"pm.test(\"Verify Status code and Content Type\", () => {\r",
+									"  pm.expect(pm.response.code).to.eql(200);\r",
+									"  pm.expect(pm.response.headers.get('Content-Type')).to.eql('application/json');\r",
+									"});\r",
+									"\r",
+									"//Verify that the response time is below 1s\r",
+									"pm.test(\"Response time is less than 1ms\", function (){\r",
+									"  pm.expect(pm.response.responseTime).to.be.below(1);\r",
+									"});\r",
+									"\r",
+									"//Verify in Response - That \"country\" is \"Germany\" and \"state\" is \"Baden-Württemberg\"\r",
+									"pm.test(\"Verify State and Country\", function () {\r",
+									"    var responseJson = pm.response.json();\r",
+									"    pm.expect(responseJson.country).to.eql(\"Germany\");\r",
+									"    pm.expect(responseJson.state).to.eql(\"Baden-Württemberg\");\r",
+									"    \r",
+									"});\r",
+									"\r",
+									"//Verify in Response - For Post Code \"70597\" the place name has \"Stuttgart Degerloch\"\r",
+									"pm.test(\"Verify Postal Code and Place \", () => {\r",
+									"    let jsonData = pm.response.json()\r",
+									"    value = jsonData.places[105];\r",
+									"    console.log( value['post code']);\r",
+									"    console.log( value['place name']);\r",
+									"   if( value['post code'] ===\"70597\")\r",
+									"{\r",
+									"    \r",
+									"      pm.expect(value['place name']).to.eql(\"Stuttgart Degerloch\");\r",
+									"}\r",
+									"    else{\r",
+									"\r",
+									"        console.log(\"Dose not Belong\");\r",
+									"    }\r",
+									"\r",
+									"});\r",
+									"\r",
+									"\r",
+									"\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"auth": {
+							"type": "basic"
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://api.zippopotam.us/de/bw/stuttgart",
+							"protocol": "http",
+							"host": [
+								"api",
+								"zippopotam",
+								"us"
+							],
+							"path": [
+								"de",
+								"bw",
+								"stuttgart"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "TestCase1",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.zippopotam.us/de/bw/stuttgart",
+									"protocol": "http",
+									"host": [
+										"api",
+										"zippopotam",
+										"us"
+									],
+									"path": [
+										"de",
+										"bw",
+										"stuttgart"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Thu, 14 Jul 2022 21:47:30 GMT"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Transfer-Encoding",
+									"value": "chunked"
+								},
+								{
+									"key": "Connection",
+									"value": "keep-alive"
+								},
+								{
+									"key": "x-cache",
+									"value": "hit"
+								},
+								{
+									"key": "charset",
+									"value": "UTF-8"
+								},
+								{
+									"key": "vary",
+									"value": "Accept-Encoding"
+								},
+								{
+									"key": "CF-Cache-Status",
+									"value": "DYNAMIC"
+								},
+								{
+									"key": "Report-To",
+									"value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=du%2BOYSlBuYn%2BYmqi4r6pl7sSG7Eox1m7hIwNCJLv5lbvFkKK%2FTzg4Iqqdfo6fkndqjIc5M9edcWLVGMGVxW0eX3l%2BBMCHQnmh3se3I3bbiPGwwYWJ1%2FkvjgmTa9V8OcR4KAAHQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+								},
+								{
+									"key": "NEL",
+									"value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+								},
+								{
+									"key": "access-control-allow-origin",
+									"value": "*"
+								},
+								{
+									"key": "Server",
+									"value": "cloudflare"
+								},
+								{
+									"key": "CF-RAY",
+									"value": "72ad750c3a389018-FRA"
+								},
+								{
+									"key": "Content-Encoding",
+									"value": "gzip"
+								},
+								{
+									"key": "alt-svc",
+									"value": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"country abbreviation\": \"DE\",\n    \"places\": [\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.1767\",\n            \"post code\": \"70173\",\n            \"latitude\": \"48.7786\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70173\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70174\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.172\",\n            \"post code\": \"70174\",\n            \"latitude\": \"48.7827\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Nord\",\n            \"longitude\": \"9.1921\",\n            \"post code\": \"70174\",\n            \"latitude\": \"48.7978\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70176\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.1585\",\n            \"post code\": \"70176\",\n            \"latitude\": \"48.7752\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-West\",\n            \"longitude\": \"9.1641\",\n            \"post code\": \"70176\",\n            \"latitude\": \"48.7736\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-West\",\n            \"longitude\": \"9.1641\",\n            \"post code\": \"70178\",\n            \"latitude\": \"48.7736\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.1731\",\n            \"post code\": \"70178\",\n            \"latitude\": \"48.7728\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70178\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Süd\",\n            \"longitude\": \"9.1678\",\n            \"post code\": \"70178\",\n            \"latitude\": \"48.7644\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70180\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.1762\",\n            \"post code\": \"70180\",\n            \"latitude\": \"48.7649\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Süd\",\n            \"longitude\": \"9.1678\",\n            \"post code\": \"70180\",\n            \"latitude\": \"48.7644\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70182\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.1821\",\n            \"post code\": \"70182\",\n            \"latitude\": \"48.7745\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70184\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Frauenkopf\",\n            \"longitude\": \"9.2218\",\n            \"post code\": \"70184\",\n            \"latitude\": \"48.7607\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Süd\",\n            \"longitude\": \"9.1678\",\n            \"post code\": \"70184\",\n            \"latitude\": \"48.7644\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Ost\",\n            \"longitude\": \"9.2079\",\n            \"post code\": \"70184\",\n            \"latitude\": \"48.7819\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.1798\",\n            \"post code\": \"70184\",\n            \"latitude\": \"48.7759\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70186\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Ost\",\n            \"longitude\": \"9.2042\",\n            \"post code\": \"70186\",\n            \"latitude\": \"48.7718\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70188\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.2112\",\n            \"post code\": \"70188\",\n            \"latitude\": \"48.7836\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Ost\",\n            \"longitude\": \"9.2079\",\n            \"post code\": \"70188\",\n            \"latitude\": \"48.7819\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Ost\",\n            \"longitude\": \"9.2079\",\n            \"post code\": \"70190\",\n            \"latitude\": \"48.7819\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70190\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Mitte\",\n            \"longitude\": \"9.2019\",\n            \"post code\": \"70190\",\n            \"latitude\": \"48.7887\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70191\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Bad Cannstatt\",\n            \"longitude\": \"9.2141\",\n            \"post code\": \"70191\",\n            \"latitude\": \"48.8056\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Nord\",\n            \"longitude\": \"9.1824\",\n            \"post code\": \"70191\",\n            \"latitude\": \"48.7974\"\n        },\n        {\n            \"place name\": \"Stuttgart Feuerbach\",\n            \"longitude\": \"9.1588\",\n            \"post code\": \"70192\",\n            \"latitude\": \"48.8113\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70192\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Nord\",\n            \"longitude\": \"9.1921\",\n            \"post code\": \"70192\",\n            \"latitude\": \"48.7978\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70193\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-West\",\n            \"longitude\": \"9.1641\",\n            \"post code\": \"70193\",\n            \"latitude\": \"48.7736\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Nord\",\n            \"longitude\": \"9.1557\",\n            \"post code\": \"70193\",\n            \"latitude\": \"48.7784\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70195\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Botnang\",\n            \"longitude\": \"9.1304\",\n            \"post code\": \"70195\",\n            \"latitude\": \"48.7762\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70197\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-West\",\n            \"longitude\": \"9.1485\",\n            \"post code\": \"70197\",\n            \"latitude\": \"48.767\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Süd\",\n            \"longitude\": \"9.1678\",\n            \"post code\": \"70199\",\n            \"latitude\": \"48.7644\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-West\",\n            \"longitude\": \"9.1509\",\n            \"post code\": \"70199\",\n            \"latitude\": \"48.7582\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70199\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Rotenberg\",\n            \"longitude\": \"9.2715\",\n            \"post code\": \"70327\",\n            \"latitude\": \"48.7833\"\n        },\n        {\n            \"place name\": \"Stuttgart Hedelfingen\",\n            \"longitude\": \"9.2557\",\n            \"post code\": \"70327\",\n            \"latitude\": \"48.7586\"\n        },\n        {\n            \"place name\": \"Stuttgart Luginsland\",\n            \"longitude\": \"9.2579\",\n            \"post code\": \"70327\",\n            \"latitude\": \"48.7931\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70327\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Wangen\",\n            \"longitude\": \"9.2478\",\n            \"post code\": \"70327\",\n            \"latitude\": \"48.7687\"\n        },\n        {\n            \"place name\": \"Stuttgart Stuttgart-Ost\",\n            \"longitude\": \"9.2444\",\n            \"post code\": \"70327\",\n            \"latitude\": \"48.7726\"\n        },\n        {\n            \"place name\": \"Stuttgart Untertürkheim\",\n            \"longitude\": \"9.2509\",\n            \"post code\": \"70327\",\n            \"latitude\": \"48.7802\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70329\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Uhlbach\",\n            \"longitude\": \"9.2788\",\n            \"post code\": \"70329\",\n            \"latitude\": \"48.7762\"\n        },\n        {\n            \"place name\": \"Stuttgart Rohracker\",\n            \"longitude\": \"9.2618\",\n            \"post code\": \"70329\",\n            \"latitude\": \"48.7618\"\n        },\n        {\n            \"place name\": \"Stuttgart Obertürkheim\",\n            \"longitude\": \"9.2683\",\n            \"post code\": \"70329\",\n            \"latitude\": \"48.7646\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.2177\",\n            \"post code\": \"70372\",\n            \"latitude\": \"48.8026\"\n        },\n        {\n            \"place name\": \"Stuttgart Bad Cannstatt\",\n            \"longitude\": \"9.2141\",\n            \"post code\": \"70372\",\n            \"latitude\": \"48.8056\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70374\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Bad Cannstatt\",\n            \"longitude\": \"9.2141\",\n            \"post code\": \"70374\",\n            \"latitude\": \"48.8056\"\n        },\n        {\n            \"place name\": \"Stuttgart Sommerrain\",\n            \"longitude\": \"9.2367\",\n            \"post code\": \"70374\",\n            \"latitude\": \"48.8106\"\n        },\n        {\n            \"place name\": \"Stuttgart Burgholzhof\",\n            \"longitude\": \"9.2124\",\n            \"post code\": \"70376\",\n            \"latitude\": \"48.8137\"\n        },\n        {\n            \"place name\": \"Stuttgart Münster\",\n            \"longitude\": \"9.22\",\n            \"post code\": \"70376\",\n            \"latitude\": \"48.8213\"\n        },\n        {\n            \"place name\": \"Stuttgart Bad Cannstatt\",\n            \"longitude\": \"9.2141\",\n            \"post code\": \"70376\",\n            \"latitude\": \"48.8056\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70376\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.227\",\n            \"post code\": \"70378\",\n            \"latitude\": \"48.837\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70435\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Zuffenhausen\",\n            \"longitude\": \"9.1656\",\n            \"post code\": \"70435\",\n            \"latitude\": \"48.8334\"\n        },\n        {\n            \"place name\": \"Stuttgart Zuffenhausen\",\n            \"longitude\": \"9.1938\",\n            \"post code\": \"70437\",\n            \"latitude\": \"48.8353\"\n        },\n        {\n            \"place name\": \"Stuttgart Rot\",\n            \"longitude\": \"9.1927\",\n            \"post code\": \"70437\",\n            \"latitude\": \"48.8341\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70437\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Mönchfeld\",\n            \"longitude\": \"9.2192\",\n            \"post code\": \"70437\",\n            \"latitude\": \"48.8424\"\n        },\n        {\n            \"place name\": \"Stuttgart Zazenhausen\",\n            \"longitude\": \"9.1928\",\n            \"post code\": \"70437\",\n            \"latitude\": \"48.8409\"\n        },\n        {\n            \"place name\": \"Stuttgart Freiberg\",\n            \"longitude\": \"9.2049\",\n            \"post code\": \"70437\",\n            \"latitude\": \"48.8363\"\n        },\n        {\n            \"place name\": \"Stuttgart Neuwirtshaus\",\n            \"longitude\": \"9.1424\",\n            \"post code\": \"70439\",\n            \"latitude\": \"48.8357\"\n        },\n        {\n            \"place name\": \"Stuttgart Zuffenhausen\",\n            \"longitude\": \"9.1525\",\n            \"post code\": \"70439\",\n            \"latitude\": \"48.8412\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70439\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Stammheim\",\n            \"longitude\": \"9.156\",\n            \"post code\": \"70439\",\n            \"latitude\": \"48.8493\"\n        },\n        {\n            \"place name\": \"Stuttgart Feuerbach\",\n            \"longitude\": \"9.1612\",\n            \"post code\": \"70469\",\n            \"latitude\": \"48.8098\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70469\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Zuffenhausen\",\n            \"longitude\": \"9.1675\",\n            \"post code\": \"70469\",\n            \"latitude\": \"48.8141\"\n        },\n        {\n            \"place name\": \"Stuttgart Giebel\",\n            \"longitude\": \"9.0891\",\n            \"post code\": \"70499\",\n            \"latitude\": \"48.8067\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70499\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Weilimdorf\",\n            \"longitude\": \"9.1123\",\n            \"post code\": \"70499\",\n            \"latitude\": \"48.8143\"\n        },\n        {\n            \"place name\": \"Stuttgart Hausen\",\n            \"longitude\": \"9.0829\",\n            \"post code\": \"70499\",\n            \"latitude\": \"48.8151\"\n        },\n        {\n            \"place name\": \"Stuttgart Wolfbusch\",\n            \"longitude\": \"9.1118\",\n            \"post code\": \"70499\",\n            \"latitude\": \"48.8125\"\n        },\n        {\n            \"place name\": \"Stuttgart Bergheim\",\n            \"longitude\": \"9.0897\",\n            \"post code\": \"70499\",\n            \"latitude\": \"48.8013\"\n        },\n        {\n            \"place name\": \"Stuttgart Zuffenhausen\",\n            \"longitude\": \"9.1685\",\n            \"post code\": \"70499\",\n            \"latitude\": \"48.8323\"\n        },\n        {\n            \"place name\": \"Stuttgart Möhringen\",\n            \"longitude\": \"9.1464\",\n            \"post code\": \"70563\",\n            \"latitude\": \"48.7258\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70563\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Vaihingen\",\n            \"longitude\": \"9.103\",\n            \"post code\": \"70563\",\n            \"latitude\": \"48.7294\"\n        },\n        {\n            \"place name\": \"Stuttgart Dürrlewang\",\n            \"longitude\": \"9.1181\",\n            \"post code\": \"70565\",\n            \"latitude\": \"48.7195\"\n        },\n        {\n            \"place name\": \"Stuttgart Fasanenhof\",\n            \"longitude\": \"9.1509\",\n            \"post code\": \"70565\",\n            \"latitude\": \"48.7124\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70565\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Möhringen\",\n            \"longitude\": \"9.1464\",\n            \"post code\": \"70565\",\n            \"latitude\": \"48.7258\"\n        },\n        {\n            \"place name\": \"Stuttgart Vaihingen\",\n            \"longitude\": \"9.1247\",\n            \"post code\": \"70565\",\n            \"latitude\": \"48.7248\"\n        },\n        {\n            \"place name\": \"Stuttgart Rohr\",\n            \"longitude\": \"9.106\",\n            \"post code\": \"70565\",\n            \"latitude\": \"48.7172\"\n        },\n        {\n            \"place name\": \"Stuttgart Möhringen\",\n            \"longitude\": \"9.1464\",\n            \"post code\": \"70567\",\n            \"latitude\": \"48.7258\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70567\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Degerloch\",\n            \"longitude\": \"9.1534\",\n            \"post code\": \"70567\",\n            \"latitude\": \"48.7237\"\n        },\n        {\n            \"place name\": \"Stuttgart Vaihingen\",\n            \"longitude\": \"9.1097\",\n            \"post code\": \"70569\",\n            \"latitude\": \"48.7301\"\n        },\n        {\n            \"place name\": \"Stuttgart Kaltental\",\n            \"longitude\": \"9.1293\",\n            \"post code\": \"70569\",\n            \"latitude\": \"48.7383\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70569\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Büsnau\",\n            \"longitude\": \"9.0798\",\n            \"post code\": \"70569\",\n            \"latitude\": \"48.7506\"\n        },\n        {\n            \"place name\": \"Stuttgart Degerloch\",\n            \"longitude\": \"9.1703\",\n            \"post code\": \"70597\",\n            \"latitude\": \"48.7496\"\n        },\n        {\n            \"place name\": \"Stuttgart Kaltental\",\n            \"longitude\": \"9.1293\",\n            \"post code\": \"70597\",\n            \"latitude\": \"48.7383\"\n        },\n        {\n            \"place name\": \"Stuttgart Hoffeld\",\n            \"longitude\": \"9.1739\",\n            \"post code\": \"70597\",\n            \"latitude\": \"48.7425\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70597\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Möhringen\",\n            \"longitude\": \"9.1464\",\n            \"post code\": \"70597\",\n            \"latitude\": \"48.7258\"\n        },\n        {\n            \"place name\": \"Stuttgart Sonnenberg\",\n            \"longitude\": \"9.1552\",\n            \"post code\": \"70597\",\n            \"latitude\": \"48.7446\"\n        },\n        {\n            \"place name\": \"Stuttgart Schönberg\",\n            \"longitude\": \"9.2001\",\n            \"post code\": \"70599\",\n            \"latitude\": \"48.7325\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70599\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Steckfeld\",\n            \"longitude\": \"9.2014\",\n            \"post code\": \"70599\",\n            \"latitude\": \"48.7153\"\n        },\n        {\n            \"place name\": \"Stuttgart Birkach\",\n            \"longitude\": \"9.2108\",\n            \"post code\": \"70599\",\n            \"latitude\": \"48.7082\"\n        },\n        {\n            \"place name\": \"Stuttgart Plieningen\",\n            \"longitude\": \"9.2107\",\n            \"post code\": \"70599\",\n            \"latitude\": \"48.701\"\n        },\n        {\n            \"place name\": \"Stuttgart Asemwald\",\n            \"longitude\": \"9.1932\",\n            \"post code\": \"70599\",\n            \"latitude\": \"48.726\"\n        },\n        {\n            \"place name\": \"Stuttgart Hohenheim\",\n            \"longitude\": \"9.2113\",\n            \"post code\": \"70599\",\n            \"latitude\": \"48.7118\"\n        },\n        {\n            \"place name\": \"Stuttgart Heumaden\",\n            \"longitude\": \"9.2376\",\n            \"post code\": \"70619\",\n            \"latitude\": \"48.7463\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70619\",\n            \"latitude\": \"48.7667\"\n        },\n        {\n            \"place name\": \"Stuttgart Lederberg\",\n            \"longitude\": \"9.243\",\n            \"post code\": \"70619\",\n            \"latitude\": \"48.7532\"\n        },\n        {\n            \"place name\": \"Stuttgart Sillenbuch\",\n            \"longitude\": \"9.2074\",\n            \"post code\": \"70619\",\n            \"latitude\": \"48.7474\"\n        },\n        {\n            \"place name\": \"Stuttgart Riedenberg\",\n            \"longitude\": \"9.2134\",\n            \"post code\": \"70619\",\n            \"latitude\": \"48.736\"\n        },\n        {\n            \"place name\": \"Stuttgart Flughafen\",\n            \"longitude\": \"9.2121\",\n            \"post code\": \"70629\",\n            \"latitude\": \"48.6836\"\n        },\n        {\n            \"place name\": \"Stuttgart\",\n            \"longitude\": \"9.1833\",\n            \"post code\": \"70629\",\n            \"latitude\": \"48.7667\"\n        }\n    ],\n    \"country\": \"Germany\",\n    \"place name\": \"Stuttgart Stuttgart-Mitte\",\n    \"state\": \"Baden-Württemberg\",\n    \"state abbreviation\": \"BW\"\n}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"id": "29c1f2b7-2eb2-40ae-aa33-d05c17e423f2",
+	"name": "Data_Driven_Sogeti_API",
+	"timestamp": "2022-07-14T21:48:44.485Z",
+	"collection_id": "21128240-8cf3aba4-a14e-4222-9474-2665e4ae089d",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 6,
+	"totalFail": 3,
+	"results": [
+		{
+			"id": "206bb248-e0f2-4b8b-b474-cca5f4ac0605",
+			"name": "TestCase2",
+			"time": 1085,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Verify Status code and Content Type": true,
+				"Response time is less than 1ms": false,
+				"Verify Place Name in Response": true
+			},
+			"testPassFailCounts": {
+				"Verify Status code and Content Type": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Response time is less than 1ms": {
+					"pass": 0,
+					"fail": 3
+				},
+				"Verify Place Name in Response": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				353,
+				415,
+				1085
+			],
+			"allTests": [
+				{
+					"Verify Status code and Content Type": true,
+					"Response time is less than 1ms": false,
+					"Verify Place Name in Response": true
+				},
+				{
+					"Verify Status code and Content Type": true,
+					"Response time is less than 1ms": false,
+					"Verify Place Name in Response": true
+				},
+				{
+					"Verify Status code and Content Type": true,
+					"Response time is less than 1ms": false,
+					"Verify Place Name in Response": true
+				}
+			]
+		}
+	],
+	"count": 3,
+	"totalTime": 1853,
+	"collection": {
+		"requests": [
+			{
+				"id": "206bb248-e0f2-4b8b-b474-cca5f4ac0605",
+				"method": "GET"
+			}
+		]
+	}
+}

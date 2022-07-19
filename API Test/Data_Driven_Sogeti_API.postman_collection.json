@@ -1,0 +1,121 @@
+{
+	"info": {
+		"_postman_id": "8cf3aba4-a14e-4222-9474-2665e4ae089d",
+		"name": "Data_Driven_Sogeti_API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21128240"
+	},
+	"item": [
+		{
+			"name": "TestCase2",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"//Verify that the response status code is 200 and content type is JSON.\r",
+							"pm.test(\"Verify Status code and Content Type\", () => {\r",
+							"  pm.expect(pm.response.code).to.eql(200);\r",
+							"  pm.expect(pm.response.headers.get('Content-Type')).to.eql('application/json');\r",
+							"});\r",
+							"\r",
+							"//Verify that the response time is below 1s\r",
+							"pm.test(\"Response time is less than 1ms\", function (){\r",
+							"  pm.expect(pm.response.responseTime).to.be.below(1);\r",
+							"});\r",
+							"\r",
+							"//Verify in Response - \"Place Name\" for each input \"Country\" and \"Postal Code\"\r",
+							"pm.test(\"Verify Place Name in Response\", function (){\r",
+							"// To get data from CSV\r",
+							"console.log(data.country);\r",
+							"console.log(data['postal-code']);\r",
+							"console.log(data.placename);\r",
+							"//To get data from varibales declared in Collection\r",
+							"//tests [\"Body contains Country Name\"] = responseBody . has (data[ \"country\" ]) ;\r",
+							"//tests [\"Body contains Postal Code\"] = responseBody . has (data['postal-code']) ;\r",
+							"//tests [\"Body contains Place Name\"] = responseBody . has (data['postal-code']) ;\r",
+							"console .log (data) ;\r",
+							"let jsonData = pm.response.json()\r",
+							"value = jsonData.places[0]['place name'];\r",
+							"console.log( value);\r",
+							"pm.expect(data.placename).to.eql(value);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n{\r\n    \"country\": \"{{country}}\",\r\n    \"postal code\": \"{{postal-code}}\",\r\n    \"place name\": \"{{placename}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api.zippopotam.us/{{country}}/{{postal-code}}",
+					"protocol": "http",
+					"host": [
+						"api",
+						"zippopotam",
+						"us"
+					],
+					"path": [
+						"{{country}}",
+						"{{postal-code}}"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "country",
+			"value": "us",
+			"type": "string"
+		},
+		{
+			"key": "postal-code",
+			"value": "90210",
+			"type": "string"
+		},
+		{
+			"key": "placename",
+			"value": "Beverly Hills",
+			"type": "string"
+		}
+	]
+}
