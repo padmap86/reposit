@@ -1,0 +1,1265 @@
+07-17-2022 19:55:35 |TestCase1.java |INFO  [main] Suite.TestCase1 34 - Login into Application
+07-17-2022 19:55:35 |TestCase1.java |INFO  [main] Suite.TestCase1 44 - Move to Services Text
+07-17-2022 19:55:35 |TestCase1.java |INFO  [main] Suite.TestCase1 48 - Move to Automation Text
+07-17-2022 19:55:36 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 62 - Verify the URL Moved
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 67 - Verify that Page is loaded completely
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 72 - Verify the Page Title
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 86 - Move to Services Text
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 94 - Verify that the Services are Selected
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 98 - Verify that the Automation are Selected
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 118 - Log the Console Errors
+07-17-2022 19:55:37 |TestCase1.java |INFO  [main] Suite.TestCase1 121 - Close the application
+07-17-2022 19:55:41 |TestCase1.java |INFO  [main] Suite.TestCase1 124 - Close all browsers
+07-17-2022 19:55:47 |TestCase2.java |INFO  [main] Suite.TestCase2 40 - Login into Application
+07-17-2022 19:55:47 |TestCase2.java |INFO  [main] Suite.TestCase2 49 - Move to Services Text
+07-17-2022 19:55:47 |TestCase2.java |INFO  [main] Suite.TestCase2 52 - Move to Automation Text
+07-17-2022 19:55:48 |TestCase2.java |INFO  [main] Suite.TestCase2 59 - Scroll down the Page
+07-17-2022 19:55:53 |TestCase2.java |INFO  [main] Suite.TestCase2 65 - Collect datas from Fairy tool
+07-17-2022 19:55:53 |TestCase2.java |INFO  [main] Suite.TestCase2 74 - Submit the Form to verify for Error Message
+07-17-2022 19:55:53 |TestCase2.java |INFO  [main] Suite.TestCase2 77 - Validate the Error Message and Enter Frist Name
+07-17-2022 19:55:54 |TestCase2.java |INFO  [main] Suite.TestCase2 86 - Validate the Error Message and Enter Last Name
+07-17-2022 19:55:55 |TestCase2.java |INFO  [main] Suite.TestCase2 95 - Validate the Error Message and Enter Email
+07-17-2022 19:55:57 |TestCase2.java |INFO  [main] Suite.TestCase2 104 - Validate the Error Message and Enter Phone Number
+07-17-2022 19:55:58 |TestCase2.java |INFO  [main] Suite.TestCase2 113 - Validate the Error Message and Enter Company Name
+07-17-2022 19:55:59 |TestCase2.java |INFO  [main] Suite.TestCase2 122 - Validate the Error Message and Enter Country Name
+07-17-2022 19:56:02 |TestCase2.java |INFO  [main] Suite.TestCase2 133 - Validate the Error Message and Enter Message
+07-17-2022 19:56:04 |TestCase2.java |INFO  [main] Suite.TestCase2 142 - Click Agree CheckBox
+07-17-2022 19:56:04 |TestCase2.java |INFO  [main] Suite.TestCase2 146 - Captcha Workaround
+07-17-2022 19:56:05 |TestCase2.java |INFO  [main] Suite.TestCase2 166 - Click Submit button
+07-17-2022 19:56:50 |TestCase2.java |INFO  [main] Suite.TestCase2 186 - Write the Result in Excel Sheet
+07-17-2022 19:56:50 |TestCase2.java |INFO  [main] Suite.TestCase2 194 - Log the Console Errors
+07-17-2022 19:56:50 |TestCase2.java |INFO  [main] Suite.TestCase2 197 - Close the application
+07-17-2022 19:56:54 |TestCase2.java |INFO  [main] Suite.TestCase2 200 - Close all browsers
+07-17-2022 19:56:55 |TestCase3.java |INFO  [main] Suite.TestCase3 47 - Login into Application
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 55 - Click on WorldWide
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 58 - List all countries
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 62 - Get the Country name and URL and Validate the URL
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:56:59 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:00 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:01 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:02 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:03 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 112 - Write the Result in Excel Sheet
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 121 - Log the Console Errors
+07-17-2022 19:57:04 |TestCase3.java |INFO  [main] Suite.TestCase3 124 - Close the application
+07-17-2022 19:57:08 |TestCase3.java |INFO  [main] Suite.TestCase3 127 - Close all browsers
+07-17-2022 20:00:40 |TestCase1.java |INFO  [main] Suite.TestCase1 34 - Login into Application
+07-17-2022 20:00:40 |TestCase1.java |INFO  [main] Suite.TestCase1 44 - Move to Services Text
+07-17-2022 20:00:40 |TestCase1.java |INFO  [main] Suite.TestCase1 48 - Move to Automation Text
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 62 - Verify the URL Moved
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 67 - Verify that Page is loaded completely
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 72 - Verify the Page Title
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 86 - Move to Services Text
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 94 - Verify that the Services are Selected
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 98 - Verify that the Automation are Selected
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 118 - Log the Console Errors
+07-17-2022 20:00:42 |TestCase1.java |INFO  [main] Suite.TestCase1 121 - Close the application
+07-17-2022 20:00:47 |TestCase1.java |INFO  [main] Suite.TestCase1 124 - Close all browsers
+07-17-2022 20:00:52 |TestCase2.java |INFO  [main] Suite.TestCase2 40 - Login into Application
+07-17-2022 20:00:52 |TestCase2.java |INFO  [main] Suite.TestCase2 49 - Move to Services Text
+07-17-2022 20:00:52 |TestCase2.java |INFO  [main] Suite.TestCase2 52 - Move to Automation Text
+07-17-2022 20:00:54 |TestCase2.java |INFO  [main] Suite.TestCase2 59 - Scroll down the Page
+07-17-2022 20:00:58 |TestCase2.java |INFO  [main] Suite.TestCase2 65 - Collect datas from Fairy tool
+07-17-2022 20:00:58 |TestCase2.java |INFO  [main] Suite.TestCase2 74 - Submit the Form to verify for Error Message
+07-17-2022 20:00:58 |TestCase2.java |INFO  [main] Suite.TestCase2 77 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:00:59 |TestCase2.java |INFO  [main] Suite.TestCase2 86 - Validate the Error Message and Enter Last Name
+07-17-2022 20:01:00 |TestCase2.java |INFO  [main] Suite.TestCase2 95 - Validate the Error Message and Enter Email
+07-17-2022 20:01:02 |TestCase2.java |INFO  [main] Suite.TestCase2 104 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:01:03 |TestCase2.java |INFO  [main] Suite.TestCase2 113 - Validate the Error Message and Enter Company Name
+07-17-2022 20:01:04 |TestCase2.java |INFO  [main] Suite.TestCase2 122 - Validate the Error Message and Enter Country Name
+07-17-2022 20:01:07 |TestCase2.java |INFO  [main] Suite.TestCase2 133 - Validate the Error Message and Enter Message
+07-17-2022 20:01:09 |TestCase2.java |INFO  [main] Suite.TestCase2 142 - Click Agree CheckBox
+07-17-2022 20:01:10 |TestCase2.java |INFO  [main] Suite.TestCase2 146 - Captcha Workaround
+07-17-2022 20:01:11 |TestCase2.java |INFO  [main] Suite.TestCase2 156 - Click Captcha Check Box
+07-17-2022 20:01:14 |TestCase2.java |INFO  [main] Suite.TestCase2 161 - Select Captcha manually
+07-17-2022 20:01:14 |TestCase2.java |INFO  [main] Suite.TestCase2 167 - Click Submit button
+07-17-2022 20:01:15 |TestCase2.java |INFO  [main] Suite.TestCase2 187 - Write the Result in Excel Sheet
+07-17-2022 20:01:15 |TestCase2.java |INFO  [main] Suite.TestCase2 195 - Log the Console Errors
+07-17-2022 20:01:15 |TestCase2.java |INFO  [main] Suite.TestCase2 198 - Close the application
+07-17-2022 20:01:20 |TestCase2.java |INFO  [main] Suite.TestCase2 201 - Close all browsers
+07-17-2022 20:01:20 |TestCase3.java |INFO  [main] Suite.TestCase3 47 - Login into Application
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 55 - Click on WorldWide
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 58 - List all countries
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 62 - Get the Country name and URL and Validate the URL
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:25 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:26 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:27 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:28 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:29 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 112 - Write the Result in Excel Sheet
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 121 - Log the Console Errors
+07-17-2022 20:01:30 |TestCase3.java |INFO  [main] Suite.TestCase3 124 - Close the application
+07-17-2022 20:01:34 |TestCase3.java |INFO  [main] Suite.TestCase3 127 - Close all browsers
+07-17-2022 20:02:04 |TestCase1.java |INFO  [main] Suite.TestCase1 34 - Login into Application
+07-17-2022 20:02:04 |TestCase1.java |INFO  [main] Suite.TestCase1 44 - Move to Services Text
+07-17-2022 20:02:04 |TestCase1.java |INFO  [main] Suite.TestCase1 48 - Move to Automation Text
+07-17-2022 20:02:06 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:02:06 |TestCase1.java |INFO  [main] Suite.TestCase1 62 - Verify the URL Moved
+07-17-2022 20:02:06 |TestCase1.java |INFO  [main] Suite.TestCase1 67 - Verify that Page is loaded completely
+07-17-2022 20:02:06 |TestCase1.java |INFO  [main] Suite.TestCase1 72 - Verify the Page Title
+07-17-2022 20:02:06 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:02:06 |TestCase1.java |INFO  [main] Suite.TestCase1 86 - Move to Services Text
+07-17-2022 20:02:06 |TestCase1.java |INFO  [main] Suite.TestCase1 94 - Verify that the Services are Selected
+07-17-2022 20:02:07 |TestCase1.java |INFO  [main] Suite.TestCase1 98 - Verify that the Automation are Selected
+07-17-2022 20:02:07 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:02:07 |TestCase1.java |INFO  [main] Suite.TestCase1 118 - Log the Console Errors
+07-17-2022 20:02:07 |TestCase1.java |INFO  [main] Suite.TestCase1 121 - Close the application
+07-17-2022 20:02:11 |TestCase1.java |INFO  [main] Suite.TestCase1 124 - Close all browsers
+07-17-2022 20:02:16 |TestCase2.java |INFO  [main] Suite.TestCase2 40 - Login into Application
+07-17-2022 20:02:16 |TestCase2.java |INFO  [main] Suite.TestCase2 49 - Move to Services Text
+07-17-2022 20:02:16 |TestCase2.java |INFO  [main] Suite.TestCase2 52 - Move to Automation Text
+07-17-2022 20:02:18 |TestCase2.java |INFO  [main] Suite.TestCase2 59 - Scroll down the Page
+07-17-2022 20:02:22 |TestCase2.java |INFO  [main] Suite.TestCase2 65 - Collect datas from Fairy tool
+07-17-2022 20:02:22 |TestCase2.java |INFO  [main] Suite.TestCase2 74 - Submit the Form to verify for Error Message
+07-17-2022 20:02:22 |TestCase2.java |INFO  [main] Suite.TestCase2 77 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:02:23 |TestCase2.java |INFO  [main] Suite.TestCase2 86 - Validate the Error Message and Enter Last Name
+07-17-2022 20:02:24 |TestCase2.java |INFO  [main] Suite.TestCase2 95 - Validate the Error Message and Enter Email
+07-17-2022 20:02:26 |TestCase2.java |INFO  [main] Suite.TestCase2 104 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:02:27 |TestCase2.java |INFO  [main] Suite.TestCase2 113 - Validate the Error Message and Enter Company Name
+07-17-2022 20:02:28 |TestCase2.java |INFO  [main] Suite.TestCase2 122 - Validate the Error Message and Enter Country Name
+07-17-2022 20:02:32 |TestCase2.java |INFO  [main] Suite.TestCase2 133 - Validate the Error Message and Enter Message
+07-17-2022 20:02:33 |TestCase2.java |INFO  [main] Suite.TestCase2 142 - Click Agree CheckBox
+07-17-2022 20:02:34 |TestCase2.java |INFO  [main] Suite.TestCase2 146 - Captcha Workaround
+07-17-2022 20:02:35 |TestCase2.java |INFO  [main] Suite.TestCase2 156 - Click Captcha Check Box
+07-17-2022 20:02:38 |TestCase2.java |INFO  [main] Suite.TestCase2 161 - Select Captcha manually
+07-17-2022 20:02:45 |TestCase2.java |INFO  [main] Suite.TestCase2 167 - Click Submit button
+07-17-2022 20:02:51 |TestCase2.java |INFO  [main] Suite.TestCase2 177 - Validate the Sucess Message
+07-17-2022 20:02:51 |TestCase2.java |INFO  [main] Suite.TestCase2 187 - Write the Result in Excel Sheet
+07-17-2022 20:02:51 |TestCase2.java |INFO  [main] Suite.TestCase2 195 - Log the Console Errors
+07-17-2022 20:02:51 |TestCase2.java |INFO  [main] Suite.TestCase2 198 - Close the application
+07-17-2022 20:02:55 |TestCase2.java |INFO  [main] Suite.TestCase2 201 - Close all browsers
+07-17-2022 20:02:56 |TestCase3.java |INFO  [main] Suite.TestCase3 47 - Login into Application
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 55 - Click on WorldWide
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 58 - List all countries
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 62 - Get the Country name and URL and Validate the URL
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:02 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:03 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:05 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 112 - Write the Result in Excel Sheet
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 121 - Log the Console Errors
+07-17-2022 20:03:06 |TestCase3.java |INFO  [main] Suite.TestCase3 124 - Close the application
+07-17-2022 20:03:10 |TestCase3.java |INFO  [main] Suite.TestCase3 127 - Close all browsers
+07-17-2022 20:07:35 |TestCase2.java |INFO  [main] Suite.TestCase2 41 - Login into Application
+07-17-2022 20:07:35 |TestCase2.java |INFO  [main] Suite.TestCase2 50 - Move to Services Text
+07-17-2022 20:07:35 |TestCase2.java |INFO  [main] Suite.TestCase2 53 - Move to Automation Text
+07-17-2022 20:07:37 |TestCase2.java |INFO  [main] Suite.TestCase2 60 - Scroll down the Page
+07-17-2022 20:07:41 |TestCase2.java |INFO  [main] Suite.TestCase2 66 - Collect datas from Fairy tool
+07-17-2022 20:07:41 |TestCase2.java |INFO  [main] Suite.TestCase2 75 - Submit the Form to verify for Error Message
+07-17-2022 20:07:41 |TestCase2.java |INFO  [main] Suite.TestCase2 78 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:07:42 |TestCase2.java |INFO  [main] Suite.TestCase2 87 - Validate the Error Message and Enter Last Name
+07-17-2022 20:07:44 |TestCase2.java |INFO  [main] Suite.TestCase2 96 - Validate the Error Message and Enter Email
+07-17-2022 20:07:45 |TestCase2.java |INFO  [main] Suite.TestCase2 105 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:07:46 |TestCase2.java |INFO  [main] Suite.TestCase2 114 - Validate the Error Message and Enter Company Name
+07-17-2022 20:07:48 |TestCase2.java |INFO  [main] Suite.TestCase2 123 - Validate the Error Message and Enter Country Name
+07-17-2022 20:07:51 |TestCase2.java |INFO  [main] Suite.TestCase2 134 - Validate the Error Message and Enter Message
+07-17-2022 20:07:53 |TestCase2.java |INFO  [main] Suite.TestCase2 143 - Click Agree CheckBox
+07-17-2022 20:07:53 |TestCase2.java |INFO  [main] Suite.TestCase2 147 - Captcha Workaround
+07-17-2022 20:07:54 |TestCase2.java |INFO  [main] Suite.TestCase2 191 - Write the Result in Excel Sheet
+07-17-2022 20:07:54 |TestCase2.java |INFO  [main] Suite.TestCase2 199 - Log the Console Errors
+07-17-2022 20:07:54 |TestCase2.java |INFO  [main] Suite.TestCase2 202 - Close the application
+07-17-2022 20:07:59 |TestCase2.java |INFO  [main] Suite.TestCase2 205 - Close all browsers
+07-17-2022 20:09:19 |TestCase2.java |INFO  [main] Suite.TestCase2 41 - Login into Application
+07-17-2022 20:09:19 |TestCase2.java |INFO  [main] Suite.TestCase2 50 - Move to Services Text
+07-17-2022 20:09:19 |TestCase2.java |INFO  [main] Suite.TestCase2 53 - Move to Automation Text
+07-17-2022 20:09:20 |TestCase2.java |INFO  [main] Suite.TestCase2 60 - Scroll down the Page
+07-17-2022 20:09:24 |TestCase2.java |INFO  [main] Suite.TestCase2 66 - Collect datas from Fairy tool
+07-17-2022 20:09:24 |TestCase2.java |INFO  [main] Suite.TestCase2 75 - Submit the Form to verify for Error Message
+07-17-2022 20:09:24 |TestCase2.java |INFO  [main] Suite.TestCase2 78 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:09:26 |TestCase2.java |INFO  [main] Suite.TestCase2 87 - Validate the Error Message and Enter Last Name
+07-17-2022 20:09:27 |TestCase2.java |INFO  [main] Suite.TestCase2 96 - Validate the Error Message and Enter Email
+07-17-2022 20:09:28 |TestCase2.java |INFO  [main] Suite.TestCase2 105 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:09:30 |TestCase2.java |INFO  [main] Suite.TestCase2 114 - Validate the Error Message and Enter Company Name
+07-17-2022 20:09:31 |TestCase2.java |INFO  [main] Suite.TestCase2 123 - Validate the Error Message and Enter Country Name
+07-17-2022 20:09:34 |TestCase2.java |INFO  [main] Suite.TestCase2 134 - Validate the Error Message and Enter Message
+07-17-2022 20:09:36 |TestCase2.java |INFO  [main] Suite.TestCase2 143 - Click Agree CheckBox
+07-17-2022 20:09:36 |TestCase2.java |INFO  [main] Suite.TestCase2 147 - Captcha Workaround
+07-17-2022 20:09:37 |TestCase2.java |INFO  [main] Suite.TestCase2 184 - Validated the Success Message
+07-17-2022 20:09:37 |TestCase2.java |INFO  [main] Suite.TestCase2 191 - Write the Result in Excel Sheet
+07-17-2022 20:09:38 |TestCase2.java |INFO  [main] Suite.TestCase2 199 - Log the Console Errors
+07-17-2022 20:09:38 |TestCase2.java |INFO  [main] Suite.TestCase2 202 - Close the application
+07-17-2022 20:09:38 |TestCase2.java |INFO  [main] Suite.TestCase2 205 - Close all browsers
+07-17-2022 20:11:39 |TestCase1.java |INFO  [main] Suite.TestCase1 34 - Login into Application
+07-17-2022 20:11:39 |TestCase1.java |INFO  [main] Suite.TestCase1 44 - Move to Services Text
+07-17-2022 20:11:39 |TestCase1.java |INFO  [main] Suite.TestCase1 48 - Move to Automation Text
+07-17-2022 20:11:40 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:11:40 |TestCase1.java |INFO  [main] Suite.TestCase1 62 - Verify the URL Moved
+07-17-2022 20:11:40 |TestCase1.java |INFO  [main] Suite.TestCase1 67 - Verify that Page is loaded completely
+07-17-2022 20:11:40 |TestCase1.java |INFO  [main] Suite.TestCase1 72 - Verify the Page Title
+07-17-2022 20:11:40 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:11:41 |TestCase1.java |INFO  [main] Suite.TestCase1 86 - Move to Services Text
+07-17-2022 20:11:41 |TestCase1.java |INFO  [main] Suite.TestCase1 94 - Verify that the Services are Selected
+07-17-2022 20:11:41 |TestCase1.java |INFO  [main] Suite.TestCase1 98 - Verify that the Automation are Selected
+07-17-2022 20:11:41 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:11:41 |TestCase1.java |INFO  [main] Suite.TestCase1 118 - Log the Console Errors
+07-17-2022 20:11:41 |TestCase1.java |INFO  [main] Suite.TestCase1 121 - Close the application
+07-17-2022 20:11:41 |TestCase1.java |INFO  [main] Suite.TestCase1 124 - Close all browsers
+07-17-2022 20:11:46 |TestCase2.java |INFO  [main] Suite.TestCase2 42 - Login into Application
+07-17-2022 20:11:46 |TestCase2.java |INFO  [main] Suite.TestCase2 51 - Move to Services Text
+07-17-2022 20:11:46 |TestCase2.java |INFO  [main] Suite.TestCase2 54 - Move to Automation Text
+07-17-2022 20:11:48 |TestCase2.java |INFO  [main] Suite.TestCase2 61 - Scroll down the Page
+07-17-2022 20:11:52 |TestCase2.java |INFO  [main] Suite.TestCase2 67 - Collect datas from Fairy tool
+07-17-2022 20:11:52 |TestCase2.java |INFO  [main] Suite.TestCase2 76 - Submit the Form to verify for Error Message
+07-17-2022 20:11:52 |TestCase2.java |INFO  [main] Suite.TestCase2 79 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:11:53 |TestCase2.java |INFO  [main] Suite.TestCase2 88 - Validate the Error Message and Enter Last Name
+07-17-2022 20:11:54 |TestCase2.java |INFO  [main] Suite.TestCase2 97 - Validate the Error Message and Enter Email
+07-17-2022 20:11:56 |TestCase2.java |INFO  [main] Suite.TestCase2 106 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:11:57 |TestCase2.java |INFO  [main] Suite.TestCase2 115 - Validate the Error Message and Enter Company Name
+07-17-2022 20:11:58 |TestCase2.java |INFO  [main] Suite.TestCase2 124 - Validate the Error Message and Enter Country Name
+07-17-2022 20:12:01 |TestCase2.java |INFO  [main] Suite.TestCase2 135 - Validate the Error Message and Enter Message
+07-17-2022 20:12:03 |TestCase2.java |INFO  [main] Suite.TestCase2 144 - Click Agree CheckBox
+07-17-2022 20:12:03 |TestCase2.java |INFO  [main] Suite.TestCase2 148 - Captcha Workaround
+07-17-2022 20:12:04 |TestCase2.java |INFO  [main] Suite.TestCase2 159 - Click Captcha Check Box
+07-17-2022 20:12:07 |TestCase2.java |INFO  [main] Suite.TestCase2 167 - Select Captcha manually
+07-17-2022 20:12:14 |TestCase2.java |INFO  [main] Suite.TestCase2 171 - Click Submit button
+07-17-2022 20:12:15 |TestCase2.java |INFO  [main] Suite.TestCase2 196 - Write the Result in Excel Sheet
+07-17-2022 20:12:15 |TestCase2.java |INFO  [main] Suite.TestCase2 204 - Log the Console Errors
+07-17-2022 20:12:15 |TestCase2.java |INFO  [main] Suite.TestCase2 207 - Close the application
+07-17-2022 20:12:15 |TestCase2.java |INFO  [main] Suite.TestCase2 210 - Close all browsers
+07-17-2022 20:12:16 |TestCase3.java |INFO  [main] Suite.TestCase3 47 - Login into Application
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 55 - Click on WorldWide
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 58 - List all countries
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 62 - Get the Country name and URL and Validate the URL
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:20 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:21 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:22 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:23 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:24 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 112 - Write the Result in Excel Sheet
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 121 - Log the Console Errors
+07-17-2022 20:12:25 |TestCase3.java |INFO  [main] Suite.TestCase3 124 - Close the application
+07-17-2022 20:12:30 |TestCase3.java |INFO  [main] Suite.TestCase3 127 - Close all browsers
+07-17-2022 20:13:16 |TestCase1.java |INFO  [main] Suite.TestCase1 34 - Login into Application
+07-17-2022 20:13:16 |TestCase1.java |INFO  [main] Suite.TestCase1 44 - Move to Services Text
+07-17-2022 20:13:16 |TestCase1.java |INFO  [main] Suite.TestCase1 48 - Move to Automation Text
+07-17-2022 20:13:17 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 62 - Verify the URL Moved
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 67 - Verify that Page is loaded completely
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 72 - Verify the Page Title
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 86 - Move to Services Text
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 94 - Verify that the Services are Selected
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 98 - Verify that the Automation are Selected
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 118 - Log the Console Errors
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 121 - Close the application
+07-17-2022 20:13:18 |TestCase1.java |INFO  [main] Suite.TestCase1 124 - Close all browsers
+07-17-2022 20:13:23 |TestCase2.java |INFO  [main] Suite.TestCase2 42 - Login into Application
+07-17-2022 20:13:23 |TestCase2.java |INFO  [main] Suite.TestCase2 51 - Move to Services Text
+07-17-2022 20:13:23 |TestCase2.java |INFO  [main] Suite.TestCase2 54 - Move to Automation Text
+07-17-2022 20:13:25 |TestCase2.java |INFO  [main] Suite.TestCase2 61 - Scroll down the Page
+07-17-2022 20:13:29 |TestCase2.java |INFO  [main] Suite.TestCase2 67 - Collect datas from Fairy tool
+07-17-2022 20:13:29 |TestCase2.java |INFO  [main] Suite.TestCase2 76 - Submit the Form to verify for Error Message
+07-17-2022 20:13:29 |TestCase2.java |INFO  [main] Suite.TestCase2 79 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:13:30 |TestCase2.java |INFO  [main] Suite.TestCase2 88 - Validate the Error Message and Enter Last Name
+07-17-2022 20:13:31 |TestCase2.java |INFO  [main] Suite.TestCase2 97 - Validate the Error Message and Enter Email
+07-17-2022 20:13:33 |TestCase2.java |INFO  [main] Suite.TestCase2 106 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:13:34 |TestCase2.java |INFO  [main] Suite.TestCase2 115 - Validate the Error Message and Enter Company Name
+07-17-2022 20:13:35 |TestCase2.java |INFO  [main] Suite.TestCase2 124 - Validate the Error Message and Enter Country Name
+07-17-2022 20:13:38 |TestCase2.java |INFO  [main] Suite.TestCase2 135 - Validate the Error Message and Enter Message
+07-17-2022 20:13:40 |TestCase2.java |INFO  [main] Suite.TestCase2 144 - Click Agree CheckBox
+07-17-2022 20:13:40 |TestCase2.java |INFO  [main] Suite.TestCase2 148 - Captcha Workaround
+07-17-2022 20:13:41 |TestCase2.java |INFO  [main] Suite.TestCase2 159 - Click Captcha Check Box
+07-17-2022 20:13:44 |TestCase2.java |INFO  [main] Suite.TestCase2 167 - Select Captcha manually
+07-17-2022 20:13:52 |TestCase2.java |INFO  [main] Suite.TestCase2 171 - Click Submit button
+07-17-2022 20:13:58 |TestCase2.java |INFO  [main] Suite.TestCase2 183 - Validate the Success Message
+07-17-2022 20:13:58 |TestCase2.java |INFO  [main] Suite.TestCase2 186 - Validated the Success Message
+07-17-2022 20:13:58 |TestCase2.java |INFO  [main] Suite.TestCase2 189 - Validated the Success Message
+07-17-2022 20:13:58 |TestCase2.java |INFO  [main] Suite.TestCase2 196 - Write the Result in Excel Sheet
+07-17-2022 20:13:58 |TestCase2.java |INFO  [main] Suite.TestCase2 204 - Log the Console Errors
+07-17-2022 20:13:58 |TestCase2.java |INFO  [main] Suite.TestCase2 207 - Close the application
+07-17-2022 20:13:58 |TestCase2.java |INFO  [main] Suite.TestCase2 210 - Close all browsers
+07-17-2022 20:13:59 |TestCase3.java |INFO  [main] Suite.TestCase3 47 - Login into Application
+07-17-2022 20:14:03 |TestCase3.java |INFO  [main] Suite.TestCase3 55 - Click on WorldWide
+07-17-2022 20:14:03 |TestCase3.java |INFO  [main] Suite.TestCase3 58 - List all countries
+07-17-2022 20:14:03 |TestCase3.java |INFO  [main] Suite.TestCase3 62 - Get the Country name and URL and Validate the URL
+07-17-2022 20:14:03 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:04 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:09 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:09 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:09 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:09 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:09 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:09 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:09 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:09 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:10 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:10 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:10 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:10 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:10 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:11 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:11 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:11 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:11 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:12 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:13 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:14 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:15 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 112 - Write the Result in Excel Sheet
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 121 - Log the Console Errors
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 124 - Close the application
+07-17-2022 20:14:16 |TestCase3.java |INFO  [main] Suite.TestCase3 127 - Close all browsers
+07-17-2022 20:19:11 |TestCase1.java |INFO  [main] Suite.TestCase1 34 - Login into Application
+07-17-2022 20:19:11 |TestCase1.java |INFO  [main] Suite.TestCase1 44 - Move to Services Text
+07-17-2022 20:19:11 |TestCase1.java |INFO  [main] Suite.TestCase1 48 - Move to Automation Text
+07-17-2022 20:19:12 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:19:12 |TestCase1.java |INFO  [main] Suite.TestCase1 62 - Verify the URL Moved
+07-17-2022 20:19:12 |TestCase1.java |INFO  [main] Suite.TestCase1 67 - Verify that Page is loaded completely
+07-17-2022 20:19:12 |TestCase1.java |INFO  [main] Suite.TestCase1 72 - Verify the Page Title
+07-17-2022 20:19:12 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:19:13 |TestCase1.java |INFO  [main] Suite.TestCase1 86 - Move to Services Text
+07-17-2022 20:19:13 |TestCase1.java |INFO  [main] Suite.TestCase1 94 - Verify that the Services are Selected
+07-17-2022 20:19:13 |TestCase1.java |INFO  [main] Suite.TestCase1 98 - Verify that the Automation are Selected
+07-17-2022 20:19:13 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:19:13 |TestCase1.java |INFO  [main] Suite.TestCase1 118 - Log the Console Errors
+07-17-2022 20:19:13 |TestCase1.java |INFO  [main] Suite.TestCase1 121 - Close the application
+07-17-2022 20:19:13 |TestCase1.java |INFO  [main] Suite.TestCase1 124 - Close all browsers
+07-17-2022 20:19:17 |TestCase2.java |INFO  [main] Suite.TestCase2 42 - Login into Application
+07-17-2022 20:19:17 |TestCase2.java |INFO  [main] Suite.TestCase2 51 - Move to Services Text
+07-17-2022 20:19:17 |TestCase2.java |INFO  [main] Suite.TestCase2 54 - Move to Automation Text
+07-17-2022 20:19:19 |TestCase2.java |INFO  [main] Suite.TestCase2 61 - Scroll down the Page
+07-17-2022 20:19:23 |TestCase2.java |INFO  [main] Suite.TestCase2 67 - Collect datas from Fairy tool
+07-17-2022 20:19:23 |TestCase2.java |INFO  [main] Suite.TestCase2 76 - Submit the Form to verify for Error Message
+07-17-2022 20:19:23 |TestCase2.java |INFO  [main] Suite.TestCase2 79 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:19:24 |TestCase2.java |INFO  [main] Suite.TestCase2 88 - Validate the Error Message and Enter Last Name
+07-17-2022 20:19:26 |TestCase2.java |INFO  [main] Suite.TestCase2 97 - Validate the Error Message and Enter Email
+07-17-2022 20:19:27 |TestCase2.java |INFO  [main] Suite.TestCase2 106 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:19:28 |TestCase2.java |INFO  [main] Suite.TestCase2 115 - Validate the Error Message and Enter Company Name
+07-17-2022 20:19:30 |TestCase2.java |INFO  [main] Suite.TestCase2 124 - Validate the Error Message and Enter Country Name
+07-17-2022 20:19:33 |TestCase2.java |INFO  [main] Suite.TestCase2 135 - Validate the Error Message and Enter Message
+07-17-2022 20:19:34 |TestCase2.java |INFO  [main] Suite.TestCase2 144 - Click Agree CheckBox
+07-17-2022 20:19:34 |TestCase2.java |INFO  [main] Suite.TestCase2 148 - Captcha Workaround
+07-17-2022 20:19:35 |TestCase2.java |INFO  [main] Suite.TestCase2 159 - Click Captcha Check Box
+07-17-2022 20:19:39 |TestCase2.java |INFO  [main] Suite.TestCase2 167 - Select Captcha manually
+07-17-2022 20:19:47 |TestCase2.java |INFO  [main] Suite.TestCase2 171 - Click Submit button
+07-17-2022 20:19:48 |TestCase2.java |INFO  [main] Suite.TestCase2 196 - Write the Result in Excel Sheet
+07-17-2022 20:19:48 |TestCase2.java |INFO  [main] Suite.TestCase2 204 - Log the Console Errors
+07-17-2022 20:19:48 |TestCase2.java |INFO  [main] Suite.TestCase2 207 - Close the application
+07-17-2022 20:19:49 |TestCase2.java |INFO  [main] Suite.TestCase2 210 - Close all browsers
+07-17-2022 20:19:49 |TestCase3.java |INFO  [main] Suite.TestCase3 47 - Login into Application
+07-17-2022 20:19:54 |TestCase3.java |INFO  [main] Suite.TestCase3 55 - Click on WorldWide
+07-17-2022 20:19:54 |TestCase3.java |INFO  [main] Suite.TestCase3 58 - List all countries
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 62 - Get the Country name and URL and Validate the URL
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:55 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:56 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:56 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:56 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:56 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:56 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:57 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:58 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:19:59 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:20:00 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:20:00 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:20:00 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:20:00 |TestCase3.java |INFO  [main] Suite.TestCase3 112 - Write the Result in Excel Sheet
+07-17-2022 20:20:00 |TestCase3.java |INFO  [main] Suite.TestCase3 121 - Log the Console Errors
+07-17-2022 20:20:00 |TestCase3.java |INFO  [main] Suite.TestCase3 124 - Close the application
+07-17-2022 20:20:00 |TestCase3.java |INFO  [main] Suite.TestCase3 127 - Close all browsers
+07-17-2022 20:21:49 |TestCase1.java |INFO  [main] Suite.TestCase1 34 - Login into Application
+07-17-2022 20:21:49 |TestCase1.java |INFO  [main] Suite.TestCase1 44 - Move to Services Text
+07-17-2022 20:21:49 |TestCase1.java |INFO  [main] Suite.TestCase1 48 - Move to Automation Text
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 62 - Verify the URL Moved
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 67 - Verify that Page is loaded completely
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 72 - Verify the Page Title
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 86 - Move to Services Text
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 94 - Verify that the Services are Selected
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 98 - Verify that the Automation are Selected
+07-17-2022 20:21:51 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:21:52 |TestCase1.java |INFO  [main] Suite.TestCase1 118 - Log the Console Errors
+07-17-2022 20:21:52 |TestCase1.java |INFO  [main] Suite.TestCase1 121 - Close the application
+07-17-2022 20:21:56 |TestCase1.java |INFO  [main] Suite.TestCase1 124 - Close all browsers
+07-17-2022 20:22:02 |TestCase2.java |INFO  [main] Suite.TestCase2 42 - Login into Application
+07-17-2022 20:22:02 |TestCase2.java |INFO  [main] Suite.TestCase2 51 - Move to Services Text
+07-17-2022 20:22:03 |TestCase2.java |INFO  [main] Suite.TestCase2 54 - Move to Automation Text
+07-17-2022 20:22:04 |TestCase2.java |INFO  [main] Suite.TestCase2 61 - Scroll down the Page
+07-17-2022 20:22:08 |TestCase2.java |INFO  [main] Suite.TestCase2 67 - Collect datas from Fairy tool
+07-17-2022 20:22:08 |TestCase2.java |INFO  [main] Suite.TestCase2 76 - Submit the Form to verify for Error Message
+07-17-2022 20:22:08 |TestCase2.java |INFO  [main] Suite.TestCase2 79 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:22:10 |TestCase2.java |INFO  [main] Suite.TestCase2 88 - Validate the Error Message and Enter Last Name
+07-17-2022 20:22:11 |TestCase2.java |INFO  [main] Suite.TestCase2 97 - Validate the Error Message and Enter Email
+07-17-2022 20:22:12 |TestCase2.java |INFO  [main] Suite.TestCase2 106 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:22:13 |TestCase2.java |INFO  [main] Suite.TestCase2 115 - Validate the Error Message and Enter Company Name
+07-17-2022 20:22:15 |TestCase2.java |INFO  [main] Suite.TestCase2 124 - Validate the Error Message and Enter Country Name
+07-17-2022 20:22:18 |TestCase2.java |INFO  [main] Suite.TestCase2 135 - Validate the Error Message and Enter Message
+07-17-2022 20:22:20 |TestCase2.java |INFO  [main] Suite.TestCase2 144 - Click Agree CheckBox
+07-17-2022 20:22:20 |TestCase2.java |INFO  [main] Suite.TestCase2 148 - Captcha Workaround
+07-17-2022 20:22:21 |TestCase2.java |INFO  [main] Suite.TestCase2 159 - Click Captcha Check Box
+07-17-2022 20:22:24 |TestCase2.java |INFO  [main] Suite.TestCase2 167 - Select Captcha manually
+07-17-2022 20:22:32 |TestCase2.java |INFO  [main] Suite.TestCase2 171 - Click Submit button
+07-17-2022 20:22:33 |TestCase2.java |INFO  [main] Suite.TestCase2 196 - Write the Result in Excel Sheet
+07-17-2022 20:22:34 |TestCase2.java |INFO  [main] Suite.TestCase2 204 - Log the Console Errors
+07-17-2022 20:22:34 |TestCase2.java |INFO  [main] Suite.TestCase2 207 - Close the application
+07-17-2022 20:22:34 |TestCase2.java |INFO  [main] Suite.TestCase2 210 - Close all browsers
+07-17-2022 20:22:34 |TestCase3.java |INFO  [main] Suite.TestCase3 47 - Login into Application
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 55 - Click on WorldWide
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 58 - List all countries
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 62 - Get the Country name and URL and Validate the URL
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:39 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:40 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:41 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:42 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:43 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 112 - Write the Result in Excel Sheet
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 121 - Log the Console Errors
+07-17-2022 20:22:44 |TestCase3.java |INFO  [main] Suite.TestCase3 124 - Close the application
+07-17-2022 20:22:48 |TestCase3.java |INFO  [main] Suite.TestCase3 127 - Close all browsers
+07-17-2022 20:28:47 |TestCase1.java |INFO  [main] Suite.TestCase1 34 - Login into Application
+07-17-2022 20:28:47 |TestCase1.java |INFO  [main] Suite.TestCase1 44 - Move to Services Text
+07-17-2022 20:28:47 |TestCase1.java |INFO  [main] Suite.TestCase1 48 - Move to Automation Text
+07-17-2022 20:28:48 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 62 - Verify the URL Moved
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 67 - Verify that Page is loaded completely
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 72 - Verify the Page Title
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 86 - Move to Services Text
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 94 - Verify that the Services are Selected
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 98 - Verify that the Automation are Selected
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 109 - Write the Result in Excel Sheet
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 118 - Log the Console Errors
+07-17-2022 20:28:49 |TestCase1.java |INFO  [main] Suite.TestCase1 121 - Close the application
+07-17-2022 20:28:53 |TestCase1.java |INFO  [main] Suite.TestCase1 124 - Close all browsers
+07-17-2022 20:28:59 |TestCase2.java |INFO  [main] Suite.TestCase2 42 - Login into Application
+07-17-2022 20:28:59 |TestCase2.java |INFO  [main] Suite.TestCase2 51 - Move to Services Text
+07-17-2022 20:28:59 |TestCase2.java |INFO  [main] Suite.TestCase2 54 - Move to Automation Text
+07-17-2022 20:29:00 |TestCase2.java |INFO  [main] Suite.TestCase2 61 - Scroll down the Page
+07-17-2022 20:29:04 |TestCase2.java |INFO  [main] Suite.TestCase2 67 - Collect datas from Fairy tool
+07-17-2022 20:29:04 |TestCase2.java |INFO  [main] Suite.TestCase2 76 - Submit the Form to verify for Error Message
+07-17-2022 20:29:05 |TestCase2.java |INFO  [main] Suite.TestCase2 79 - Validate the Error Message and Enter Frist Name
+07-17-2022 20:29:06 |TestCase2.java |INFO  [main] Suite.TestCase2 88 - Validate the Error Message and Enter Last Name
+07-17-2022 20:29:07 |TestCase2.java |INFO  [main] Suite.TestCase2 97 - Validate the Error Message and Enter Email
+07-17-2022 20:29:09 |TestCase2.java |INFO  [main] Suite.TestCase2 106 - Validate the Error Message and Enter Phone Number
+07-17-2022 20:29:10 |TestCase2.java |INFO  [main] Suite.TestCase2 115 - Validate the Error Message and Enter Company Name
+07-17-2022 20:29:11 |TestCase2.java |INFO  [main] Suite.TestCase2 124 - Validate the Error Message and Enter Country Name
+07-17-2022 20:29:14 |TestCase2.java |INFO  [main] Suite.TestCase2 135 - Validate the Error Message and Enter Message
+07-17-2022 20:29:16 |TestCase2.java |INFO  [main] Suite.TestCase2 144 - Click Agree CheckBox
+07-17-2022 20:29:16 |TestCase2.java |INFO  [main] Suite.TestCase2 148 - Captcha Workaround
+07-17-2022 20:29:17 |TestCase2.java |INFO  [main] Suite.TestCase2 159 - Click Captcha Check Box
+07-17-2022 20:29:20 |TestCase2.java |INFO  [main] Suite.TestCase2 167 - Select Captcha manually
+07-17-2022 20:29:28 |TestCase2.java |INFO  [main] Suite.TestCase2 171 - Click Submit button
+07-17-2022 20:29:30 |TestCase2.java |INFO  [main] Suite.TestCase2 196 - Write the Result in Excel Sheet
+07-17-2022 20:29:30 |TestCase2.java |INFO  [main] Suite.TestCase2 204 - Log the Console Errors
+07-17-2022 20:29:30 |TestCase2.java |INFO  [main] Suite.TestCase2 207 - Close the application
+07-17-2022 20:29:34 |TestCase2.java |INFO  [main] Suite.TestCase2 210 - Close all browsers
+07-17-2022 20:29:35 |TestCase3.java |INFO  [main] Suite.TestCase3 47 - Login into Application
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 55 - Click on WorldWide
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 58 - List all countries
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 62 - Get the Country name and URL and Validate the URL
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:40 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:41 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:42 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:43 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:44 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 64 - Get the country Name 
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 67 - Get the URL of Matched Country
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 70 - Check if URL is Null or Empty
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 76 - Open the Connection
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 79 - Set the Request Method
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 82 - Establish the connection
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 85 - Get the Response Status Code
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 88 - Validate the URL is Valid or Not
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 98 - Validated URL
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 112 - Write the Result in Excel Sheet
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 121 - Log the Console Errors
+07-17-2022 20:29:45 |TestCase3.java |INFO  [main] Suite.TestCase3 124 - Close the application
+07-17-2022 20:29:49 |TestCase3.java |INFO  [main] Suite.TestCase3 127 - Close all browsers

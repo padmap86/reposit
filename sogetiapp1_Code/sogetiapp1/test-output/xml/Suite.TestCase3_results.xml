@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test3"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.755">
+  <properties />
+  
+  
+            <testcase name="CA_LinksVerify" time="5.755" classname="Suite.TestCase3" />
+      
+</testsuite>

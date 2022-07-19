@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test1"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.017">
+  <properties />
+  
+  
+            <testcase name="AB_Verify_AutomationPage" time="0.042" classname="Suite.TestCase1" />
+                <testcase name="AC_Verify_PageSelected" time="0.285" classname="Suite.TestCase1" />
+                <testcase name="AA_MoveTo_AutomationLink" time="1.690" classname="Suite.TestCase1" />
+      
+</testsuite>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test script ran on 17-Jul-2022, 8:28:48 pm]]>
+    </line>
+    <line>
+      <![CDATA[Test script ran on 17-Jul-2022, 8:28:49 pm]]>
+    </line>
+    <line>
+      <![CDATA[Test script ran on 17-Jul-2022, 8:28:49 pm]]>
+    </line>
+    <line>
+      <![CDATA[The Link to BELGIUMis https://www.sogeti.be/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to FINLANDis https://www.sogeti.fi/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to FRANCEis https://www.fr.sogeti.com/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to GERMANYis https://www.sogeti.de/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to IRELANDis https://www.sogeti.ie/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to LUXEMBOURGis https://www.sogeti.lu/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to NETHERLANDSis https://www.sogeti.nl/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to NORWAYis https://www.sogeti.no/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to SPAINis https://www.sogeti.es/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to SWEDENis https://www.sogeti.se/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to UKis https://www.uk.sogeti.com/ is working]]>
+    </line>
+    <line>
+      <![CDATA[The Link to USAis https://www.us.sogeti.com/ is working]]>
+    </line>
+    <line>
+      <![CDATA[Test script ran on 17-Jul-2022, 8:29:45 pm]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-17T20:29:50 CEST" name="Sogeti" finished-at="2022-07-17T20:29:50 CEST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Sogeti -->
+  <suite started-at="2022-07-17T20:28:41 CEST" name="Suite1" finished-at="2022-07-17T20:28:49 CEST" duration-ms="8325">
+    <groups>
+    </groups>
+    <test started-at="2022-07-17T20:28:41 CEST" name="Test1" finished-at="2022-07-17T20:28:49 CEST" duration-ms="8325">
+      <class name="Suite.TestCase1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Suite.TestCase1@4212a0c8]" started-at="2022-07-17T20:28:41 CEST" name="setUp" finished-at="2022-07-17T20:28:47 CEST" duration-ms="5958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AA_MoveTo_AutomationLink()[pri:0, instance:Suite.TestCase1@4212a0c8]" started-at="2022-07-17T20:28:47 CEST" name="AA_MoveTo_AutomationLink" finished-at="2022-07-17T20:28:48 CEST" duration-ms="1502" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test script ran on 17-Jul-2022, 8:28:48 pm]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AA_MoveTo_AutomationLink -->
+        <test-method is-config="true" signature="writeResult(org.testng.ITestResult)[pri:0, instance:Suite.TestCase1@4212a0c8]" started-at="2022-07-17T20:28:48 CEST" name="writeResult" finished-at="2022-07-17T20:28:49 CEST" duration-ms="336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AA_MoveTo_AutomationLink status=SUCCESS method=TestCase1.AA_MoveTo_AutomationLink()[pri:0, instance:Suite.TestCase1@4212a0c8] output=Test script ran on 17-Jul-2022, 8:28:48 pm]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method signature="AB_Verify_AutomationPage()[pri:1, instance:Suite.TestCase1@4212a0c8]" started-at="2022-07-17T20:28:49 CEST" name="AB_Verify_AutomationPage" finished-at="2022-07-17T20:28:49 CEST" duration-ms="31" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test script ran on 17-Jul-2022, 8:28:49 pm]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AB_Verify_AutomationPage -->
+        <test-method is-config="true" signature="writeResult(org.testng.ITestResult)[pri:0, instance:Suite.TestCase1@4212a0c8]" started-at="2022-07-17T20:28:49 CEST" name="writeResult" finished-at="2022-07-17T20:28:49 CEST" duration-ms="117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AB_Verify_AutomationPage status=SUCCESS method=TestCase1.AB_Verify_AutomationPage()[pri:1, instance:Suite.TestCase1@4212a0c8] output=Test script ran on 17-Jul-2022, 8:28:49 pm]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method signature="AC_Verify_PageSelected()[pri:2, instance:Suite.TestCase1@4212a0c8]" started-at="2022-07-17T20:28:49 CEST" name="AC_Verify_PageSelected" finished-at="2022-07-17T20:28:49 CEST" duration-ms="250" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test script ran on 17-Jul-2022, 8:28:49 pm]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AC_Verify_PageSelected -->
+        <test-method is-config="true" signature="writeResult(org.testng.ITestResult)[pri:0, instance:Suite.TestCase1@4212a0c8]" started-at="2022-07-17T20:28:49 CEST" name="writeResult" finished-at="2022-07-17T20:28:49 CEST" duration-ms="96" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AC_Verify_PageSelected status=SUCCESS method=TestCase1.AC_Verify_PageSelected()[pri:2, instance:Suite.TestCase1@4212a0c8] output=Test script ran on 17-Jul-2022, 8:28:49 pm]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Suite.TestCase1@4212a0c8]" started-at="2022-07-17T20:28:49 CEST" name="tearDown" finished-at="2022-07-17T20:28:54 CEST" duration-ms="4754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Suite.TestCase1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+  <suite started-at="2022-07-17T20:28:54 CEST" name="Suite2" finished-at="2022-07-17T20:29:30 CEST" duration-ms="36151">
+    <groups>
+    </groups>
+    <test started-at="2022-07-17T20:28:54 CEST" name="Test2" finished-at="2022-07-17T20:29:30 CEST" duration-ms="36151">
+      <class name="Suite.TestCase2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Suite.TestCase2@4130955c]" started-at="2022-07-17T20:28:54 CEST" name="setUp" finished-at="2022-07-17T20:28:59 CEST" duration-ms="5079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="BA_ContactDetails()[pri:1, instance:Suite.TestCase2@4130955c]" started-at="2022-07-17T20:28:59 CEST" name="BA_ContactDetails" finished-at="2022-07-17T20:29:29 CEST" duration-ms="30560" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <button id="b35711ee-b569-48b4-8ec4-6476dbf61ef8" name="submit" type="submit" value="b35711ee-b569-48b4-8ec4-6476dbf61ef8" data-f-is-finalized="false" data-f-is-progressive-submit="true" data-f-type="submitbutton" data-f-element-name="__field_155435" class="Form__Element FormExcludeDataRebind FormSubmitButton text-white   bg-text-red  ">...</button> is not clickable at point (217, 265). Other element would receive the click: <iframe title="recaptcha challenge expires in two minutes" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=4rwLQsl5N_ccppoTAwwwMrEN&amp;k=6LexQgoaAAAAALYQRoWL4VDPIeQJ21RFjlN_Hb_G" name="c-wqvt3upyexnz" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" data-gtm-yt-inspected-33161183_49="true" data-gtm-yt-inspected-33161183_54="true" style="width: 400px; height: 580px;"></iframe>
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'LAPTOP-8CMGURDK', ip: '192.168.178.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\priya\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 663329e391634e087ec1e3f6cfe001be]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button id="b35711ee-b569-48b4-8ec4-6476dbf61ef8" name="submit" type="submit" value="b35711ee-b569-48b4-8ec4-6476dbf61ef8" data-f-is-finalized="false" data-f-is-progressive-submit="true" data-f-type="submitbutton" data-f-element-name="__field_155435" class="Form__Element FormExcludeDataRebind FormSubmitButton text-white   bg-text-red  ">...</button> is not clickable at point (217, 265). Other element would receive the click: <iframe title="recaptcha challenge expires in two minutes" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=4rwLQsl5N_ccppoTAwwwMrEN&amp;k=6LexQgoaAAAAALYQRoWL4VDPIeQJ21RFjlN_Hb_G" name="c-wqvt3upyexnz" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" data-gtm-yt-inspected-33161183_49="true" data-gtm-yt-inspected-33161183_54="true" style="width: 400px; height: 580px;"></iframe>
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'LAPTOP-8CMGURDK', ip: '192.168.178.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\priya\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 663329e391634e087ec1e3f6cfe001be
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:196)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:129)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:316)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+at utils.TestBase.clickelement(TestBase.java:112)
+at Suite.TestCase2.BA_ContactDetails(TestCase2.java:172)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1207)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BA_ContactDetails -->
+        <test-method is-config="true" signature="writeResult(org.testng.ITestResult)[pri:0, instance:Suite.TestCase2@4130955c]" started-at="2022-07-17T20:29:30 CEST" name="writeResult" finished-at="2022-07-17T20:29:30 CEST" duration-ms="95" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BA_ContactDetails status=FAILURE method=TestCase2.BA_ContactDetails()[pri:1, instance:Suite.TestCase2@4130955c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Suite.TestCase2@4130955c]" started-at="2022-07-17T20:29:30 CEST" name="tearDown" finished-at="2022-07-17T20:29:35 CEST" duration-ms="4784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Suite.TestCase2 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite2 -->
+  <suite started-at="2022-07-17T20:29:35 CEST" name="Suite3" finished-at="2022-07-17T20:29:45 CEST" duration-ms="10294">
+    <groups>
+    </groups>
+    <test started-at="2022-07-17T20:29:35 CEST" name="Test3" finished-at="2022-07-17T20:29:45 CEST" duration-ms="10294">
+      <class name="Suite.TestCase3">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Suite.TestCase3@276cc8dc]" started-at="2022-07-17T20:29:35 CEST" name="setUp" finished-at="2022-07-17T20:29:40 CEST" duration-ms="5091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CA_LinksVerify()[pri:1, instance:Suite.TestCase3@276cc8dc]" started-at="2022-07-17T20:29:40 CEST" name="CA_LinksVerify" finished-at="2022-07-17T20:29:45 CEST" duration-ms="5103" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The Link to BELGIUMis https://www.sogeti.be/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to FINLANDis https://www.sogeti.fi/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to FRANCEis https://www.fr.sogeti.com/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to GERMANYis https://www.sogeti.de/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to IRELANDis https://www.sogeti.ie/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to LUXEMBOURGis https://www.sogeti.lu/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to NETHERLANDSis https://www.sogeti.nl/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to NORWAYis https://www.sogeti.no/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to SPAINis https://www.sogeti.es/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to SWEDENis https://www.sogeti.se/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to UKis https://www.uk.sogeti.com/ is working]]>
+            </line>
+            <line>
+              <![CDATA[The Link to USAis https://www.us.sogeti.com/ is working]]>
+            </line>
+            <line>
+              <![CDATA[Test script ran on 17-Jul-2022, 8:29:45 pm]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CA_LinksVerify -->
+        <test-method is-config="true" signature="writeResult(org.testng.ITestResult)[pri:0, instance:Suite.TestCase3@276cc8dc]" started-at="2022-07-17T20:29:45 CEST" name="writeResult" finished-at="2022-07-17T20:29:45 CEST" duration-ms="89" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CA_LinksVerify status=SUCCESS method=TestCase3.CA_LinksVerify()[pri:1, instance:Suite.TestCase3@276cc8dc] output=The Link to BELGIUMis https://www.sogeti.be/ is working]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Suite.TestCase3@276cc8dc]" started-at="2022-07-17T20:29:45 CEST" name="tearDown" finished-at="2022-07-17T20:29:50 CEST" duration-ms="4755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Suite.TestCase3 -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite3 -->
+</testng-results>

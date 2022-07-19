@@ -1,0 +1,5 @@
+# Created at 2022-07-17T20:21:40.160
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Sogeti_Stuttgart\Project_App\sogetiapp1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

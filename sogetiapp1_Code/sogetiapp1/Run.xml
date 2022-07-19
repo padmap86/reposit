@@ -1,0 +1,9 @@
+<suite name = 'Sogeti'> 
+<suite-files>
+
+<suite-file path='TC1.xml'/>
+<suite-file path='TC2.xml'/>
+<suite-file path='TC3.xml'/>
+</suite-files>
+
+</suite>
